@@ -3,7 +3,8 @@
 - 👀 I’m interested in Data Science and Machine Learning  
 - 🌱 I’m currently learning from Coursera and Kaggle.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning domains.
-def suraj():
+- 
+- def suraj():
   skills_with_proficiency = {'Python': 'Intermidiate', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Intermidiate','flask':'Intermidiate'}
   tools = ['numpy', 'pandas', 'sklearn', 'PowerBI', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau','openCV']
   cloud_architecture = ['heroku', 'aws']
